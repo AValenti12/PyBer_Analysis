@@ -7,5 +7,6 @@ The purpose of this analysis was to analyze and visualize ride-sharing data from
 # Results
 In order to visually see and understand the differences between urban, suburban, and rural areas, we created a summary dataframe to breakdown the total rides, total drivers, total fares, average fare per ride, and averae per driver. 
 
-![image]https://github.com/AValenti12/PyBer_Analysis/blob/main/analysis/summary.png
+![image](https://user-images.githubusercontent.com/88061345/132956999-987aacf6-4b8b-466f-8462-3f025f4086f1.png)
+
 
